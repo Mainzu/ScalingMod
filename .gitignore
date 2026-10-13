@@ -13,3 +13,4 @@ Directory.Build.props
 # Workshop staging (rebuilt by workshop/prepare.ps1); mod_id.txt is kept so updates target the same item
 workshop/content/
 workshop/mod-uploader.log
+mod-uploader.log
