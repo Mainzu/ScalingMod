@@ -108,6 +108,8 @@ Uses Mega Crit's official uploader, [megacrit/sts2-mod-uploader](https://github.
    ```
    ModUploader.exe upload -w <path to this repo>/workshop
    ```
-4. The first upload is `"visibility": "private"`. Check the page on Steam (you may need to accept the Workshop legal agreement there), then change it to `"public"` and upload again, or switch it on the website.
+4. `visibility` in `workshop.json` is applied on every upload, so keep it in sync with what you want (changing it on the website alone gets overwritten by the next upload).
+
+Tags and categories (e.g. `Modifiers`, `difficulty`) can't be edited on the Steam page; they come from `tags` in `workshop.json`. Use the exact spelling other StS2 Workshop items use.
 
 If you're subscribed to your own item while `mods/ScalingMod` also exists locally, the game loads the local copy and disables the Workshop one when the versions are equal. Delete the local folder to test the Workshop version.
