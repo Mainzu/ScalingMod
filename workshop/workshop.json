@@ -1,0 +1,11 @@
+{
+  "title": "Scaling",
+  "description": "[h1]Scaling[/h1]\nAn optional challenge you opt into one fight at a time. After every fight with rewards, you can pick up [b]Scaling[/b]. It makes enemies grow exponentially stronger while you grow linearly. Only the most busted runs should reach a scaling of 2.\n\n[h2]Earning Scaling[/h2]\n[list]\n[*]Normal fight: +0.01\n[*]Elite: +0.05\n[*]Boss: +0.25\n[*]Take no attack damage in a fight and two Scaling pickups are offered instead of one.\n[/list]\n\n[h2]Enemies (exponential)[/h2]\n[list]\n[*]HP, Block and defensive statuses: [b]× e^scaling[/b]\n[*]Base damage and offensive statuses: [b]× 2^(scaling / 2)[/b]\n[/list]\n\n[h2]You (linear)[/h2]\n[list]\n[*]Gold, Max HP gains, relic effects and potion effects: [b]× (1 + scaling)[/b]\n[*]Card reward upgrade chance: [b]+scaling[/b]. Above 100%, each full 100% is a guaranteed extra upgrade.\n[*]Every whole number of scaling: all your relics repeat their pickup effect, and compatible cards can be upgraded one more time.\n[/list]\n\n[h2]Configuration[/h2]\nStarting scaling and the value of each reward can be changed in the Mod Config menu. The dev console has a [b]scaling[/b] command ([i]scaling add 0.5[/i], [i]scaling set 1[/i]).\n\n[h2]Requirements[/h2]\nRequires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3737335127]BaseLib[/url]. In co-op, every player needs the same settings.\n\n[h2]About this mod / 关于本模组 / 關於本模組[/h2]\nThis mod was made with the help of an AI coding assistant (Claude). The Chinese translations (Simplified and Traditional) were also written by AI, using the game's official terminology, and have not been reviewed by a native speaker yet. If something reads wrong or unnatural, please let me know in the comments or open an issue on [url=https://github.com/Mainzu/ScalingMod/issues]GitHub[/url].\n\n本模组在AI编程助手（Claude）的协助下制作。简体中文与繁体中文翻译同样由AI完成，参考了游戏官方译名，但尚未经过母语者校对。如果发现翻译有误或不自然，欢迎在评论区或[url=https://github.com/Mainzu/ScalingMod/issues]GitHub[/url]上告诉我。\n\n本模組在AI程式助手（Claude）的協助下製作。簡體中文與繁體中文翻譯同樣由AI完成，參考了遊戲官方譯名，但尚未經過母語者校對。如果發現翻譯有誤或不自然，歡迎在留言區或[url=https://github.com/Mainzu/ScalingMod/issues]GitHub[/url]上告訴我。",
+  "visibility": "private",
+  "changeNote": "Initial release.",
+  "tags": [],
+  "dependencies": [
+    "3737335127"
+  ],
+  "contentDescriptors": []
+}

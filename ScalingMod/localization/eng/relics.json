@@ -1,0 +1,5 @@
+{
+  "SCALINGMOD-SCALING_RELIC.title": "Scaling",
+  "SCALINGMOD-SCALING_RELIC.description": "Scaling [gold]{Scaling}[/gold]\n[red]Enemies[/red]\nHP, Block, defensive statuses [red]{EnemyDefense}[/red]\nBase damage, offensive statuses [red]{EnemyOffense}[/red]\n[green]You[/green]\nGold, Max HP, relics, potions [green]{Rewards}[/green]\nCard reward upgrade chance [green]{UpgradeChance}[/green]\nExtra card upgrades [green]{ExtraUpgrades}[/green]\nAt [gold]{NextMilestone}[/gold]: relic pickup effects repeat and cards can be upgraded once more.",
+  "SCALINGMOD-SCALING_RELIC.flavor": "The higher you climb, the harder it pushes back."
+}

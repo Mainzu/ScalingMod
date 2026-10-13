@@ -1,0 +1,10 @@
+{
+  "SCALINGMOD-SCALING_REWARD": "遞增（+{amount}）",
+  "SCALINGMOD-MILESTONE.title": "遞增值達到{level}！",
+  "SCALINGMOD-MILESTONE.body": "[gold]卡牌升級上限+1[/gold]\n相容的卡牌現在最多可以升級[green]{limit}[/green]次。\n\n你有[gold]{relics}[/gold]個遺物將重複觸發拾取時效果。",
+  "SCALINGMOD-MILESTONE.bodyNoRelics": "[gold]卡牌升級上限+1[/gold]\n相容的卡牌現在最多可以升級[green]{limit}[/green]次。\n\n你沒有擁有拾取時效果的遺物。",
+  "SCALINGMOD-MILESTONE.continue": "繼續",
+  "SCALINGMOD-MILESTONE_RELIC.title": "{relic}（{position}/{total}）",
+  "SCALINGMOD-MILESTONE_RELIC.body": "[img=96x96]{icon}[/img]\n{description}\n\n[gold]這個拾取時效果將重複觸發。[/gold]",
+  "SCALINGMOD-MILESTONE_RELIC.trigger": "觸發"
+}

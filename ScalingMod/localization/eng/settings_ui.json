@@ -1,0 +1,12 @@
+{
+  "SCALINGMOD-START_SECTION.title": "Start of Run",
+  "SCALINGMOD-STARTING_SCALING.title": "Starting scaling",
+  "SCALINGMOD-STARTING_SCALING.hover.desc": "The scaling every new run begins with. Only affects runs started after changing it.",
+  "SCALINGMOD-REWARD_SECTION.title": "Scaling Rewards",
+  "SCALINGMOD-NORMAL_FIGHT_REWARD.title": "Normal fight",
+  "SCALINGMOD-NORMAL_FIGHT_REWARD.hover.desc": "How much scaling one Scaling pickup adds after a normal fight. Set to 0 to stop offering it there.",
+  "SCALINGMOD-ELITE_FIGHT_REWARD.title": "Elite fight",
+  "SCALINGMOD-ELITE_FIGHT_REWARD.hover.desc": "How much scaling one Scaling pickup adds after an elite fight. Set to 0 to stop offering it there.",
+  "SCALINGMOD-BOSS_FIGHT_REWARD.title": "Boss fight",
+  "SCALINGMOD-BOSS_FIGHT_REWARD.hover.desc": "How much scaling one Scaling pickup adds after a boss fight. Set to 0 to stop offering it there."
+}

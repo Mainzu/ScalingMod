@@ -1,0 +1,12 @@
+{
+  "SCALINGMOD-START_SECTION.title": "開局",
+  "SCALINGMOD-STARTING_SCALING.title": "初始遞增值",
+  "SCALINGMOD-STARTING_SCALING.hover.desc": "每局新遊戲開始時的遞增值。只影響修改之後開始的新遊戲。",
+  "SCALINGMOD-REWARD_SECTION.title": "遞增獎勵",
+  "SCALINGMOD-NORMAL_FIGHT_REWARD.title": "普通戰鬥",
+  "SCALINGMOD-NORMAL_FIGHT_REWARD.hover.desc": "普通戰鬥後，拾取一次遞增所增加的遞增值。設為0則不再於此類戰鬥後提供。",
+  "SCALINGMOD-ELITE_FIGHT_REWARD.title": "菁英戰鬥",
+  "SCALINGMOD-ELITE_FIGHT_REWARD.hover.desc": "菁英戰鬥後，拾取一次遞增所增加的遞增值。設為0則不再於此類戰鬥後提供。",
+  "SCALINGMOD-BOSS_FIGHT_REWARD.title": "頭目戰鬥",
+  "SCALINGMOD-BOSS_FIGHT_REWARD.hover.desc": "頭目戰鬥後，拾取一次遞增所增加的遞增值。設為0則不再於此類戰鬥後提供。"
+}

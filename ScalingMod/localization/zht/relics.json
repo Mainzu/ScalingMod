@@ -1,0 +1,5 @@
+{
+  "SCALINGMOD-SCALING_RELIC.title": "遞增",
+  "SCALINGMOD-SCALING_RELIC.description": "遞增值 [gold]{Scaling}[/gold]\n[red]敵人[/red]\n生命值、格擋、防禦性效果 [red]{EnemyDefense}[/red]\n基礎傷害、進攻性效果 [red]{EnemyOffense}[/red]\n[green]你[/green]\n金幣、最大生命、遺物、藥水 [green]{Rewards}[/green]\n卡牌獎勵升級機率 [green]{UpgradeChance}[/green]\n額外卡牌升級次數 [green]{ExtraUpgrades}[/green]\n達到[gold]{NextMilestone}[/gold]時：遺物的拾取時效果重複觸發，卡牌可以多升級一次。",
+  "SCALINGMOD-SCALING_RELIC.flavor": "爬得越高，阻力越大。"
+}

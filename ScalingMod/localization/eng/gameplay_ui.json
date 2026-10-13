@@ -1,0 +1,10 @@
+{
+  "SCALINGMOD-SCALING_REWARD": "Scaling (+{amount})",
+  "SCALINGMOD-MILESTONE.title": "Scaling reached {level}!",
+  "SCALINGMOD-MILESTONE.body": "[gold]Card upgrade limit +1[/gold]\nCompatible cards can now be upgraded up to [green]{limit}[/green] times.\n\n[gold]{relics}[/gold] of your relics will now repeat their pickup effect.",
+  "SCALINGMOD-MILESTONE.bodyNoRelics": "[gold]Card upgrade limit +1[/gold]\nCompatible cards can now be upgraded up to [green]{limit}[/green] times.\n\nNone of your relics have a pickup effect to repeat.",
+  "SCALINGMOD-MILESTONE.continue": "Continue",
+  "SCALINGMOD-MILESTONE_RELIC.title": "{relic} ({position}/{total})",
+  "SCALINGMOD-MILESTONE_RELIC.body": "[img=96x96]{icon}[/img]\n{description}\n\n[gold]This pickup effect repeats.[/gold]",
+  "SCALINGMOD-MILESTONE_RELIC.trigger": "Repeat"
+}

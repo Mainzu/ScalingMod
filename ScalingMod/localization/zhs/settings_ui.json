@@ -1,0 +1,12 @@
+{
+  "SCALINGMOD-START_SECTION.title": "开局",
+  "SCALINGMOD-STARTING_SCALING.title": "初始递增值",
+  "SCALINGMOD-STARTING_SCALING.hover.desc": "每局新游戏开始时的递增值。只影响修改之后开始的新游戏。",
+  "SCALINGMOD-REWARD_SECTION.title": "递增奖励",
+  "SCALINGMOD-NORMAL_FIGHT_REWARD.title": "普通战斗",
+  "SCALINGMOD-NORMAL_FIGHT_REWARD.hover.desc": "普通战斗后，拾取一次递增所增加的递增值。设为0则不再在此类战斗后提供。",
+  "SCALINGMOD-ELITE_FIGHT_REWARD.title": "精英战斗",
+  "SCALINGMOD-ELITE_FIGHT_REWARD.hover.desc": "精英战斗后，拾取一次递增所增加的递增值。设为0则不再在此类战斗后提供。",
+  "SCALINGMOD-BOSS_FIGHT_REWARD.title": "Boss战斗",
+  "SCALINGMOD-BOSS_FIGHT_REWARD.hover.desc": "Boss战斗后，拾取一次递增所增加的递增值。设为0则不再在此类战斗后提供。"
+}
