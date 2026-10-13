@@ -41,6 +41,10 @@ Subscribe on the Steam Workshop, along with [BaseLib](https://steamcommunity.com
 
 This mod was made with the help of an AI coding assistant (Claude). The Chinese translations (`zhs` Simplified, `zht` Traditional) were also written by AI. They follow the game's official terminology but haven't been reviewed by a native speaker. If a translation is wrong or reads unnaturally, please [open an issue](https://github.com/Mainzu/ScalingMod/issues) or leave a comment on the Steam Workshop page.
 
+## License
+
+Public domain, under [The Unlicense](LICENSE). Use, copy, modify or redistribute it however you like; no credit needed.
+
 ---
 
 ## Development
@@ -50,7 +54,7 @@ Generated from Alchyr's `Alchyr.Sts2.Templates` (Content template, v2.5.2), buil
 ### Requirements
 
 - .NET 9 SDK (mods target `net9.0`)
-- MegaDot 4.5.1 (Mega Crit's Godot fork), needed to export the `.pck` (images, localization). Its path is set in `Directory.Build.props`, which is machine-local and gitignored; the default is `C:/megadot/MegaDot_v4.5.1-stable_mono_win64.exe`.
+- MegaDot 4.5.1 (Mega Crit's Godot fork), needed to export the `.pck` (images, localization). Copy `Directory.Build.props.example` to `Directory.Build.props` (machine-local, gitignored) and set `GodotPath`; the default is `C:/megadot/MegaDot_v4.5.1-stable_mono_win64.exe`.
 - BaseLib installed in the game, version >= the `min_version` in `ScalingMod.json`.
 
 ### Layout
