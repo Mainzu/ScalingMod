@@ -5,7 +5,10 @@
   "changeNote": "Added screenshots, tags and categories.",
   "tags": [
     "Modifiers",
-    "difficulty"
+    "difficulty",
+    "english",
+    "schinese",
+    "tchinese"
   ],
   "dependencies": [
     3737335127
